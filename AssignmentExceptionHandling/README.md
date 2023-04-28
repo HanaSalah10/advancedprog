@@ -7,3 +7,9 @@ In this assignment, it is required to write a program that reads an ARXML file c
 - If the file is empty, then you should trigger user defined unhandled exception “EmptyAutosarFileException”
 - The output file shall be named as the same of the input file concatenated with “_mod.arxml” • e.g. if the input was named “Rte_Ecuc.arxml” then the output should be
 “Rte_Ecuc_mod.arxml”.
+## Files Description
+- **lab_06** : this is the implemention of program
+- **Empty.arxml**: This is an empty arxml file for testing the empty file case
+- **NormalCase.arxml**: This is  a normal arxml file for testing the normal case.
+- **ExtensionTest.html**: This is the invalid extension file
+- **testcases.bat**: This is the batch file that runs the program with different input files for testing purposes.
