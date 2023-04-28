@@ -14,3 +14,15 @@ In this assignment, it is required to write a program that reads an ARXML file c
 - **NormalCase.arxml**: This is  a normal arxml file for testing the normal case.
 - **ExtensionTest.html**: This is the invalid extension file
 - **testcases.bat**: This is the batch file that runs the program with different input files for testing purposes.
+## How to run:
+To run your program with a single input file, use the following command:
+
+`java lab_06.java <your_file>`
+
+This will create a new file called “NormalCase_mod.arxml” with the reordered containers.
+
+To run your program with all the test files provided, use the following command:
+
+`testcases.bat`
+
+This will run your program with each of the test files and show the output on the console.
