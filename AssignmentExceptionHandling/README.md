@@ -5,7 +5,8 @@ In this assignment, it is required to write a program that reads an ARXML file c
 - The name of the arxml file shall be an argument which needs to passed through the command line.
 - If the file is not having .arxml extension then you should trigger a user defined handled exception “NotVaildAutosarFileException”.
 - If the file is empty, then you should trigger user defined unhandled exception “EmptyAutosarFileException”
-- The output file shall be named as the same of the input file concatenated with “_mod.arxml” • e.g. if the input was named “Rte_Ecuc.arxml” then the output should be
+- The output file shall be named as the same of the input file concatenated with “_mod.arxml” 
+- • e.g. if the input was named “Rte_Ecuc.arxml” then the output should be
 “Rte_Ecuc_mod.arxml”.
 ## Files Description
 - **lab_06** : this is the implemention of program
